@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kristimarkus1
-- 👀 I’m interested in becoming Software Developer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning Go
 - 📫 How to reach me kristimarkus@gmail.com
 
 <!---
