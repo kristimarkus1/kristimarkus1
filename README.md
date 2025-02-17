@@ -11,7 +11,8 @@
 
 ## 🎯 2025 Goals:
 - 🖥 Build cool stuff  
-- 🔥 Master new tech 
+- 🔥 Master new tech
+- 🥾 Try hiking
 <!--
 **kristimarkus1/kristimarkus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
