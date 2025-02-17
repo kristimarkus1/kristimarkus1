@@ -1,7 +1,7 @@
 
 ## Hey there! 👋
 
-### 🧑‍💻 About Me:
+## 🧑‍💻 About Me:
 - 🎓 Computer Science Student
 - 💡 Currently Building: My Portfolio & Budget Tracker 💰
 - 🌱 Currently learning React
