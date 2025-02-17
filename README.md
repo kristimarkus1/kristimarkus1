@@ -4,7 +4,6 @@
 ## 🧑‍💻 About Me:
 - 🎓 Computer Science Student
 - 💡 Currently Building: My Portfolio & Budget Tracker 💰
-- 🌱 Currently learning React
 
 ## 📬 Reach Me:
 - [kristimarkus@gmail.com 😎](mailto:kristimarkus@gmail.com)
