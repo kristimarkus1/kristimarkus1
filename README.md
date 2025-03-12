@@ -3,6 +3,7 @@
 
 ## 🧑‍💻 About Me:
 - 🎓 Computer Science Student
+- 🖥 Kood/Jõhvi Student
 - 💡 Currently Building: My Portfolio & Budget Tracker 💰
 
 ## 📬 Reach Me:
